@@ -5,5 +5,4 @@
 # I am Sunny
 Software engineer who writes Poems.
 
-Visit 👇
-https://sunnysrivastava.com to explore my work. 
+Visit https://sunnysrivastava.com to explore my work. 
